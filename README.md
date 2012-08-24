@@ -4,7 +4,7 @@ This is an example [Box](https://github.com/kherge/Box) application.
 
 To build it, simply run:
 
-```php
+```bash
 $ php box.phar build
 ```
 
