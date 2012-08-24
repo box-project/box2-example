@@ -1,0 +1,6 @@
+{
+    "files": ["src/Put.php"],
+    "main": "bin/main",
+    "output": "example.phar",
+    "stub": true
+}
